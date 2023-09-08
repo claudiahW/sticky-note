@@ -13,3 +13,22 @@ body{
     width: 95%;
     margin: auto;
 }
+
+.container1{
+    margin-left: 5%;
+}
+
+.container2{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    margin-left:5%;
+}
+
+.container3{
+    /*display: none;*/
+    position: absolute;
+    top: 26%;
+    left: 40%;
+}
